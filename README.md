@@ -4,6 +4,7 @@ format LiteRT (.tflite) pentru deployment pe dispozitive Android,
 precum și notebook-ul de conversie utilizat.
 
 ## Structură
+
 ├──in keras
 |   ├── mobilenet_gpu_fer-2013-augmented
 |   ├── vcnn_gpu_ck+
