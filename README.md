@@ -5,7 +5,7 @@ precum și notebook-ul de conversie utilizat.
 
 ## Modele finale selectate
 | Model | Bază de date | Acuratețe | 
-|---|---|---|---|
+|---|---|---|
 | MobileNet | FER-2013 augmented | 80.91% |
 | V-CNN | CK+ | 90.54% |
 | V-CNN | FER-2013 original | 59.96% |
