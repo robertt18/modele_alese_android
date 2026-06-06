@@ -24,6 +24,7 @@ precum și notebook-ul de conversie utilizat.
     └──RAF-DB
         ├── notebook conversie model RAF-DB
         └── model .tflite
+ ```       
         
 ## Modele finale selectate
 | Model | Bază de date | Acuratețe | 
@@ -33,4 +34,4 @@ precum și notebook-ul de conversie utilizat.
 | V-CNN | FER-2013 original | 59.96% |
 | VRES-CNN | RAF-DB | 76.08% | 
 
-```
+
